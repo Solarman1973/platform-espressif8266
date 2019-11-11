@@ -1,6 +1,6 @@
 {
   "name": "espressif8266",
-  "title": "Espressif 8266 (Stage)",
+  "title": "Espressif 8266",
   "description": "Espressif Systems is a privately held fabless semiconductor company. They provide wireless communications and Wi-Fi chips which are widely used in mobile devices and the Internet of Things applications.",
   "url": "https://espressif.com/",
   "homepage": "http://platformio.org/platforms/espressif8266",
@@ -12,10 +12,9 @@
     "type": "git",
     "url": "https://github.com/platformio/platform-espressif8266.git"
   },
-  "version": "2.3.0-alpha.2",
+  "version": "2.2.4",
   "packageRepositories": [
-    "https://github.com/Jason2866/platform-espressif8266/releases/download/2.504/manifest.json",
-    "https://github.com/blakadder/platform-espressif8266/releases/download/gitpod/manifest.json",
+    "https://github.com/Jason2866/platform-espressif8266/releases/download/2.20600.0/manifest.json",
     "https://dl.bintray.com/platformio/dl-packages/manifest.json",
     "http://dl.platformio.org/packages/manifest.json",
     "https://raw.githubusercontent.com/eerimoq/simba/master/make/platformio/manifest.json",
@@ -48,7 +47,7 @@
     "framework-arduinoespressif8266": {
       "type": "framework",
       "optional": true,
-      "version": "https://github.com/Jason2866/Arduino.git#core_2_6_0"
+      "version": "~2.20600.0"
     },
     "framework-esp8266-rtos-sdk": {
       "type": "framework",
