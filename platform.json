@@ -14,7 +14,7 @@
   },
   "version": "2.3.0-alpha.2",
   "packageRepositories": [
-    "https://github.com/Jason2866/platform-espressif8266/releases/download/2.504/manifest.json",
+    "https://github.com/Jason2866/platform-espressif8266/releases/download/2.20600.0/manifest.json",
     "https://dl.bintray.com/platformio/dl-packages/manifest.json",
     "http://dl.platformio.org/packages/manifest.json",
     "https://raw.githubusercontent.com/eerimoq/simba/master/make/platformio/manifest.json",
@@ -42,12 +42,12 @@
   "packages": {
     "toolchain-xtensa": {
       "type": "toolchain",
-      "version": "<3"
+      "version": ">=2.50400"
     },
     "framework-arduinoespressif8266": {
       "type": "framework",
       "optional": true,
-      "version": "https://github.com/Jason2866/Arduino.git#SDK22x_191105"
+      "version": "https://github.com/Jason2866/Arduino.git#Wstring"
     },
     "framework-esp8266-rtos-sdk": {
       "type": "framework",
