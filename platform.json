@@ -14,7 +14,7 @@
   },
   "version": "2.2.4",
   "packageRepositories": [
-    "https://github.com/Jason2866/platform-espressif8266/releases/download/2.20600.0/manifest.json",
+    "https://github.com/Jason2866/platform-espressif8266/releases/download/2.20601.0/manifest.json",
     "https://dl.bintray.com/platformio/dl-packages/manifest.json",
     "http://dl.platformio.org/packages/manifest.json",
     "https://raw.githubusercontent.com/eerimoq/simba/master/make/platformio/manifest.json",
