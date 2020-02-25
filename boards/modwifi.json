@@ -9,7 +9,7 @@
     "f_flash": "40000000L",
     "flash_mode": "qio",
     "mcu": "esp8266",
-    "variant": "generic"
+    "variant": "modwifi"
   },
   "connectivity": [
     "wifi"
